@@ -1,7 +1,4 @@
-# trilha-java
-Estudo-java 1.0
-
-# Introdução à Linguagem Java
+# Introdução à Linguagem Java 1.0
 
 ## O que é Java?
 Java é uma linguagem de programação orientada a objetos, multiplataforma e de alto nível, desenvolvida pela Sun Microsystems em 1995 e atualmente mantida pela Oracle Corporation. Java é amplamente utilizado para desenvolver aplicações desktop, web, móveis e sistemas embarcados.
