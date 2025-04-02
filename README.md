@@ -1,2 +1,2 @@
 # trilha-java
-Study-java 1.0
+Estudo-java 1.0
