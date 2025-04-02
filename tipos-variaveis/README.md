@@ -28,3 +28,6 @@ Em Java, para declarar uma variável, é necessário especificar o tipo de dado 
 
 ```java
 tipo nome_da_variavel;
+
+Conclusão
+O conhecimento sobre os tipos de variáveis é essencial para qualquer desenvolvedor que deseje programar em Java, pois garante que os dados sejam manipulados de forma correta e eficiente. Com a correta utilização dos tipos de variáveis, é possível escrever programas mais seguros e sem erros.
